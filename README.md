@@ -1,8 +1,8 @@
 [![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
 
-# A template for project reports at BrainHack School
+# Project report at BrainHack School
 
-Team contributors: Brainhack School
+By Andréanne Proulx
 
 ![BrainHack School](bhs2020.png)
 
@@ -14,11 +14,11 @@ Each project repository should have a markdown file explaining the background an
 
 ### Background
 
-Inspired by the [Recurse Centre](https://www.recurse.com/) initiative (formally known as the "hacker school"), Brainhack School was established in 2018 with the mission to train students from a multidisciplinary background to a panoply of reproducible tools for neural data science, using a project-based approach. Following an initial 3-weeks long pilot, a 4th week was added with an intensive bootcamp, so that students could choose what tools to learn more deeply in their projects. As the course became integrated in standard curriculum at different universities, the formula seemed to be working. In order to streamline the different stages of the project, we needed some standard template and milestones to be incorporated in a github-based workflow. The "project template" project (which is also our first BHS meta-project) aims at establishing such a standardized template.
+I am a Master's student in Psychology currently enrolled at the University of Montreal. My main focus is in genomic imagery which consists of relating information about genetics to fonctional and structural brain phenotypes. More specifically, I have worked as to 
 
 ### Tools 
 
-The "project template" project will rely on the following technologies: 
+This project will rely on the following tools: 
  * [Markdown](https://guides.github.com/features/mastering-markdown/), to structure the text.
  * The [Hugo website framework](https://gohugo.io) which is used by the BHS website. This makes it possible to easily add the markdown project description to the website. 
  * Adding the project to the website relies on github, through pull requests. 
